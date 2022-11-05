@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **shunsuke-ito520/shunsuke-ito520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 言語
+- HTML
+- CSS
+- JavaScript
+
+## 作ったもの
+### [Let's Focus!](https://shunsuke-ito520.github.io/LetsFocus/)
+  - ノーフレームワークのタイマーアプリ。使いやすいポモドーロタイマーがないのでいっそのこと作ってみた。
+  - 使用言語はHTML/CSS, Javascript。
